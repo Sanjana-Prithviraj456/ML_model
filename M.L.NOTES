@@ -1,0 +1,11 @@
+Machine learning cycle : 
+Data collection -> Data Cleaning -> Data preprocessing -> Data Scaling -> Model building -> Ready for Production
+jupyter lab jupyter lab vl open jupyter jupyter vl open code . vl vs code
+src : source folder
+utils : logs
+ensemble is used 
+
+To create environment : Create a file named requirements.txt and add all requirements reqired
+
+
+cls means clear screen
