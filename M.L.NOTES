@@ -5,7 +5,25 @@ src : source folder
 utils : logs
 ensemble is used 
 
-To create environment : Create a file named requirements.txt and add all requirements reqired
+To create environment : 1. Create a file named requirements.txt and add all requirements reqired
+Create virtual environment by code: python -m venv env
+-m : main
 
+ env\Scripts\activate in terminal and new terminal
+  
+2. install requirements.txt
+
+code : pip install -r requirements.txt 
+note : -r means read file
+
+3 : git uploading
+
+code : git add .
+code : git commit -m "commit done"
+code : git push origin main
 
 cls means clear screen
+
+esssential scikit libraries for ml are : 
+for regression analysis 3 metrics are : r2_score,mean_absolute_error,mean_squared_error
+for classification analysis the metrics are : accuracy_score, precision,f1_score
