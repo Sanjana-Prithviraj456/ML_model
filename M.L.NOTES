@@ -27,3 +27,17 @@ cls means clear screen
 esssential scikit libraries for ml are : 
 for regression analysis 3 metrics are : r2_score,mean_absolute_error,mean_squared_error
 for classification analysis the metrics are : accuracy_score, precision,f1_score
+
+To calculate q1 max_value * 25
+To calculate q3 max_value * 75
+Random state the value can be from 0 to 4294967295
+while Scaling the data train will always be fit_transform while test is alwys be in transform
+there shouldnot be multicorelanity as it will lead to overfit
+data must be distrubuted
+Variance inflation factor will tell which column to take as target
+VIF = 1/1-r2_score
+if vif is equal to 1 are not corelated
+if vif is between 1 and 5 variables  are moderately corelated
+
+feature engineer means creating a new column with existing open
+feature selection means extracting a data
