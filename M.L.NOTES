@@ -41,3 +41,12 @@ if vif is between 1 and 5 variables  are moderately corelated
 
 feature engineer means creating a new column with existing open
 feature selection means extracting a data
+
+The verticle line from data point to regression line is a mean_squared_error
+regression line is known as perceptron
+bias is known as loss and mean_squared_error
+higher the error less the accuracy
+the data point must not be scattered if its scattered it means  
+model stability the 
+epocks means iteration
+
